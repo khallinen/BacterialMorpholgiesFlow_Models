@@ -5,7 +5,7 @@
 totalCounts_Low = struct();
 
 
-for i = 1:3
+for i = 1:100
     num_cells = randsample(2:6,1); %use 2-6 for LCM
 
     [a_detachL, distal_attachL, total_anchor_after_breakL, total_distal_after_breakL, total_breakL, lengthL] = testModel_LCM(0.001, num_cells);
