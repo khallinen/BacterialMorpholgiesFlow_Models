@@ -1,4 +1,4 @@
-# BacterialMorpholgiesFlow_Models
+# BacterialMorpholgies_FlowModels
 Code for the transport-dependent colonization and mechanics-dependent colonization models used in "Bacterial species with different nanocolony morphologies have distinct flow-dependent colonization behaviors" by Hallinen, K.M., Bodine, S.P., Stone, H.A., Muir, T.W, Wingreen, N.S., and Gitai, Z., PNAS (2024)
 
 ## Transport Model
